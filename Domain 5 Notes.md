@@ -1,4 +1,4 @@
-# Domain 5.0: Security Program Management and Oversight
+## Domain 5.0: Security Program Management and Oversight
 
 ### 5.1 Summarize Elements of Effective Security Governance
 
